@@ -1,4 +1,4 @@
-# FederatedLearning
+# Federated Learning
 
 Repository containing the code developed for the **Federated Learning** course at UNICAMP (MO839) — Institute of Computing.
 
